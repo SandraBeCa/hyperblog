@@ -2,4 +2,6 @@ Sandra Bernal
 
 Practicando
 
-curso Git segunda version
+curso Git segunda version.
+
+Probando modificaciones.
